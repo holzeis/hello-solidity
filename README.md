@@ -2,7 +2,7 @@
 
 A hello world dapp
 
-# Configure environment
+## Configure environment
 
 1. Create .env in the root directory
 1. Set API_URL and PRIVATE_KEY like this
